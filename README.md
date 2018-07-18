@@ -1,3 +1,14 @@
+# Atbash
+
+## Run
+
+```bash
+bundle install
+bundle exec ruby atbash_test.rb
+```
+
+## Story
+
 Atbash is a simple substitution cipher possible with any known alphabet. It emerged around 500-600 BCE. It works by substituting the letters of an alphabet with another.
 
 #### Assumptions
